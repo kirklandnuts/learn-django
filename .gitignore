@@ -1,6 +1,7 @@
+/timmy/key.py
 *.pyc
 *~
-myvenv
+venv
 db.sqlite3
 /static
 .DS_Store
